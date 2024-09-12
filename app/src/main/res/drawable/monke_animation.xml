@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/monke_1" android:duration="200" />
+    <item android:drawable="@drawable/monke_2" android:duration="200" />
+    <item android:drawable="@drawable/monke_3" android:duration="200" />
+    <item android:drawable="@drawable/monke_4" android:duration="200" />
+    <item android:drawable="@drawable/monke_5" android:duration="200" />
+    <item android:drawable="@drawable/monke_6" android:duration="200" />
+    <item android:drawable="@drawable/monke_7" android:duration="200" />
+    <item android:drawable="@drawable/monke_8" android:duration="200" />
+    <item android:drawable="@drawable/monke_9" android:duration="200" />
+    <item android:drawable="@drawable/monke_10" android:duration="200" />
+    <item android:drawable="@drawable/monke_11" android:duration="200" />
+    <item android:drawable="@drawable/monke_12" android:duration="200" />
+    <item android:drawable="@drawable/monke_13" android:duration="200" />
+    <item android:drawable="@drawable/monke_14" android:duration="200" />
+    <item android:drawable="@drawable/monke_15" android:duration="200" />
+    <item android:drawable="@drawable/monke_16" android:duration="200" />
+</animation-list>
